@@ -1,3 +1,9 @@
+//VCT nhập vào một chuỗi là họ tên của một người (tiếng Việt không dấu), xây dựng các hàm thực hiện:
+//a)    Hãy chuẩn hóa chuỗi họ tên này. (xóa các khoảng trắng thừa và ký tự đầu tiên của họ, chữ lót và tên phải viết hoa, các ký tự còn lại viết thường).
+//VD: “ NgUyen VaN A “ => “Nguyen Van A”
+//b)    Không sử dụng các hàm có sẵn. Viết hàm xóa N ký tự từ vị trí i trong chuỗi S.
+//VD: “Nguyen Van A” i = 2 N = 3 (xóa 3 ký tự từ vị trí 2) -> “Nen Van A”
+
 #include <iostream>
 #include <cstring>
 using namespace std;
